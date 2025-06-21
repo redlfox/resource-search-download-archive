@@ -1,6 +1,10 @@
 # resource-search-download-archive
 
-## Browsing Resources
+## Searching and Downloading Resources
+
+### Google
+url parameters
+filter=0 lr=lang_zh-CN num=50 udm=18 nfpr=1
 
 ### Sites
 
