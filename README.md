@@ -2,11 +2,15 @@
 
 ## Searching and Downloading Resources
 
-### Google
+### Web
+
+#### Google
 url parameters
 filter=0 lr=lang_zh-CN num=50 udm=18 nfpr=1
 
-### Sites
+### Data
+
+#### Sites
 
 - [eimusic](https://eimusics.com/)
 
@@ -14,7 +18,7 @@ filter=0 lr=lang_zh-CN num=50 udm=18 nfpr=1
 
 - [Library Genesis](https://libgen.rs/)
 
-### Forums
+#### Forums
 
 - [Divisions by zero: piracy](https://lemmy.dbzer0.com/c/piracy)
 
@@ -24,13 +28,19 @@ filter=0 lr=lang_zh-CN num=50 udm=18 nfpr=1
 
 - [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread/)
 
-### Guides
+#### Guides
 
 - [How to search and download unpopular and old files on the internet](https://medium.com/@ValdikSS/how-to-search-and-download-unpopular-and-old-files-on-the-internet-e5947ef507ba)
 
 - [A Guideline to usenet and how to setup Automation.](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit)
 
 ## Archiving Resources
+
+### Knowledge Base
+
+#### Chinese
+
+[start [Save The Web Project]](https://wiki.saveweb.org/start)
 
 ### Sites
 
