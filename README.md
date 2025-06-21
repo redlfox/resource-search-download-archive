@@ -28,7 +28,13 @@
 
 ## Archiving Resources
 
+### Tools
+
 https://github.com/overcast07/wayback-machine-spn-scripts
+
+### Communities
+
+Save The Web Project wiki.saveweb.org
 
 ## Credits
 
