@@ -30,7 +30,9 @@
 
 ### Sites
 
+archive.org
 https://ghostarchive.org/
+ウェブ魚拓 https://megalodon.jp/ gyo.tc
 
 ### Tools
 
