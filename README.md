@@ -26,6 +26,9 @@
 
 - [A Guideline to usenet and how to setup Automation.](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit)
 
+## Archiving Resources
+
+https://github.com/overcast07/wayback-machine-spn-scripts
 
 ## Credits
 
