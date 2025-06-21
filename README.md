@@ -49,6 +49,12 @@ https://github.com/orgs/saveweb/repositories
 
 Save The Web Project wiki.saveweb.org
 
+###
+
+http://nuduseng.com/laoguangpan.htm
+
+https://github.com/esbatmop/MNBVC
+
 ## Credits
 
 https://github.com/abelfodil/knawledge/blob/3f4065b208b209a77eb709399a237dd56f2b7869/vault/swe.security.piracy.md
