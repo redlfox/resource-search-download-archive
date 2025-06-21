@@ -1,10 +1,32 @@
 # resource-search-download-archive
 
-##
+## Browsing Resources
+
+### Sites
+
+- [eimusic](https://eimusics.com/)
+
+- [AudioBook Bay](https://audiobookbay.li/)
+
+- [Library Genesis](https://libgen.rs/)
+
+### Forums
+
+- [Divisions by zero: piracy](https://lemmy.dbzer0.com/c/piracy)
+
+- [Snahp](https://fora.snahp.eu/)
+
+- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
+
+- [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread/)
+
+### Guides
 
 - [How to search and download unpopular and old files on the internet](https://medium.com/@ValdikSS/how-to-search-and-download-unpopular-and-old-files-on-the-internet-e5947ef507ba)
 
+- [A Guideline to usenet and how to setup Automation.](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit)
 
-# Credits
+
+## Credits
 
 https://github.com/abelfodil/knawledge/blob/3f4065b208b209a77eb709399a237dd56f2b7869/vault/swe.security.piracy.md
