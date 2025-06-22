@@ -18,7 +18,7 @@ filter=0 lr=lang_zh-CN num=50 udm=18 nfpr=1
 
 - [AudioBook Bay](https://audiobookbay.li/)
 
-- [Library Genesis](https://libgen.rs/)
+- [Library Genesis](https://libgen.is/)
 
 #### Forums
 
@@ -61,7 +61,7 @@ https://github.com/orgs/saveweb/repositories
 
 ### Servrices
 
-https://colab.research.google.com/
+[Google Colab](https://colab.research.google.com/)
 
 Github Actions
 
