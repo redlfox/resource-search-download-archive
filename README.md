@@ -61,6 +61,7 @@ https://github.com/orgs/saveweb/repositories
 
 ### Communities
 
+https://www.reddit.com/r/DataHoarder/
 Save The Web Project wiki.saveweb.org
 
 ###
