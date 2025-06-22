@@ -8,6 +8,8 @@
 url parameters
 filter=0 lr=lang_zh-CN num=50 udm=18 nfpr=1
 
+### Tor
+
 ### Data
 
 #### Sites
@@ -25,6 +27,8 @@ filter=0 lr=lang_zh-CN num=50 udm=18 nfpr=1
 - [Snahp](https://fora.snahp.eu/)
 
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
+
+- [r/opendirectories](https://www.reddit.com/r/opendirectories)
 
 - [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread/)
 
