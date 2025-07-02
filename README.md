@@ -55,6 +55,8 @@ https://ghostarchive.org/
 
 ### Tools
 
+See details of diffenent at [hoardy-web's readme](https://github.com/Own-Data-Privateer/hoardy-web)
+
 https://github.com/overcast07/wayback-machine-spn-scripts
 
 https://github.com/orgs/saveweb/repositories
