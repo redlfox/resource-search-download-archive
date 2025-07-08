@@ -34,6 +34,8 @@ filter=0 lr=lang_zh-CN num=50 udm=18 nfpr=1
 
 #### Guides
 
+* [Find Rare Files Online](https://forums.lostmediawiki.com/thread/10861/find-rare-files-online) - How-to Find Rare Files
+
 - [How to search and download unpopular and old files on the internet](https://medium.com/@ValdikSS/how-to-search-and-download-unpopular-and-old-files-on-the-internet-e5947ef507ba)
 
 - [A Guideline to usenet and how to setup Automation.](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit)
