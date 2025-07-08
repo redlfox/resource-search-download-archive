@@ -70,8 +70,6 @@ https://www.etools.ch/
 | Lenso (deprecated) | <https://lenso.ai/>                  |
 | SauceNAO           | <https://saucenao.com/>              |
 | TraceMoe           | <https://trace.moe/>                 |
-| Yandex             | <https://yandex.com/images/search>   |
-| Yandex             | <https://yandex.com/images/search>   |
 
 ### Tor
 
