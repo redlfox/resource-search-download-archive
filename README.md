@@ -56,7 +56,7 @@ https://www.etools.ch/
 
 #### Graveyard
 
-/site-graveyard.md
+- [site-graveyard.md](site-graveyard.md)
 
 ### Data
 
