@@ -84,7 +84,13 @@ Download torrent files: btcache.me torrage.info itorrents.org downloadtorrentfil
 
 ### File Hosting Services
 
+* Mediafire
+
+https://mediafiretrend.com/
+
 **国内网盘**
+
+百度网盘/Baidu Wangpan/Baidu Netdisk
 
 https://www.runningcheese.com/resources
 
