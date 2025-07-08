@@ -79,10 +79,28 @@ https://www.etools.ch/
 ***
 * ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [.i2p](http://btdigg.i2p/)
 * [FileMood](https://filemood.com/)
+***
+Download torrent files: btcache.me torrage.info itorrents.org downloadtorrentfile.com
+
+### File Hosting Services
+
+**国内网盘**
+
+https://www.runningcheese.com/resources
+
+www.xxhh360.com(weifengz.com) 这个不错,能查看用户分享文件列表 www.repanso.com www.aiyoweia.com/search dmpans.com vpanso.com  dalipan.com 原大力盘,现名飞飞盘 允许搜索加密文件 soupan007.com m.wp7.net zhuzhupan.com(下载收费,只能当目录用) 猪猪盘
+
+http://www.360doc.com/content/24/0608/12/9422167_1125651571.shtml
+
+https://zhuanlan.zhihu.com/p/676967916
 
 ### Tor
 
 ### Websites
+
+* Weibo
+
+crawled site: https://peachring.com
 
 #### Graveyard
 
