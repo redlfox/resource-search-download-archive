@@ -31,7 +31,7 @@ https://www.etools.ch/
 * [优酷](https://v.youku.com) Chinese
 * [新浪视频](https://video.sina.com.cn/) Chinese
 * [喵御宅_MFuns_兴趣至上的二次元社区](https://www.mfuns.net) Chinese
-* [吐槽弹幕网- tucao](https://www.tucao.my) Chinese https://tucao.moe/
+* [吐槽弹幕网- tucao](https://www.tucao.my) Chinese, announcement page: https://tucao.moe/
 * [CDA - Społeczność cda.pl](www.cda.pl) Polish
 * [Dailymotion](www.cda.pl)
 * [Dailymotion](www.cda.pl)
