@@ -11,6 +11,7 @@ filter=0 lr=lang_zh-CN num=50 udm=18 nfpr=1
 #### Others
 
 https://www.etools.ch/
+[虫部落 - 让搜索更简单](https://www.chongbuluo.com/) Chinese forum about searching online.
 
 ### Online Video
 
@@ -31,7 +32,7 @@ https://www.etools.ch/
 * [优酷](https://v.youku.com) Chinese
 * [新浪视频](https://video.sina.com.cn/) Chinese
 * [喵御宅_MFuns_兴趣至上的二次元社区](https://www.mfuns.net) Chinese
-* [吐槽弹幕网- tucao](https://www.tucao.my) Chinese, announcement page: https://tucao.moe/
+* [吐槽弹幕网- tucao](https://www.tucao.my) Chinese https://tucao.moe/
 * [CDA - Społeczność cda.pl](www.cda.pl) Polish
 * [Dailymotion](www.cda.pl)
 * [Dailymotion](www.cda.pl)
@@ -51,26 +52,26 @@ https://www.etools.ch/
 
 ### Tor
 
+### Websites
+
+#### Graveyard
+
+site-graveyard.md
+
 ### Data
 
 #### Sites
 
 - [eimusic](https://eimusics.com/)
-
 - [AudioBook Bay](https://audiobookbay.li/)
-
 - [Library Genesis](https://libgen.is/)
 
 #### Forums
 
 - [Divisions by zero: piracy](https://lemmy.dbzer0.com/c/piracy)
-
 - [Snahp](https://fora.snahp.eu/)
-
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
-
 - [r/opendirectories](https://www.reddit.com/r/opendirectories)
-
 - [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread/)
 
 #### Guides
@@ -78,9 +79,7 @@ https://www.etools.ch/
 * [How To Find Rare Files Online | Forums - The Lost Media Wiki](https://forums.lostmediawiki.com/thread/10861/find-rare-files-online)
 * [Media Search Guide | Forums - The Lost Media Wiki](https://forums.lostmediawiki.com/thread/2798/media-search-guide)
 * [Resources Thread | Forums - The Lost Media Wiki](https://forums.lostmediawiki.com/thread/3945/resources-thread)
-
 - [How to search and download unpopular and old files on the internet](https://medium.com/@ValdikSS/how-to-search-and-download-unpopular-and-old-files-on-the-internet-e5947ef507ba)
-
 - [A Guideline to usenet and how to setup Automation.](https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/edit)
 
 ## Archiving Resources
