@@ -13,7 +13,7 @@ Google offten hide more results now. So make sure use site:[website domain] to s
 [Google Search Engine Results API - SerpApi](https://serpapi.com/search-api)
 | Parameter             | Description                              |
 |--------------------|--------------------------------------|
-| filter=0 | Shows unfiltered results.(Almost useless now,was useful in the past. Fuck Google) |
+| filter=0 | Shows unfiltered results.(Almost useless now, was useful in the past. Fuck Google) |
 | lr=lang_zh-CN | Parameter defines one or multiple languages to limit the search to. It uses lang_{two-letter language code} to specify languages and \| as a delimiter. (e.g., lang_fr\|lang_de will only search French and German pages). Head to the Google lr languages page for a full list of supported languages. |
 | num=50 | Parameter defines the maximum number of results to return. (e.g., 10 (default) returns 10 results, 40 returns 40 results, and 100 returns 100 results). |
 | nfpr=1 | Prevent auto-corrected query |
