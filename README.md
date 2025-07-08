@@ -115,9 +115,7 @@ https://zhuanlan.zhihu.com/p/676967916
 
 crawled site: https://peachring.com
 
-#### Graveyard
-
-- [site-graveyard.md](site-graveyard.md)
+#### [Graveyard](site-graveyard.md)
 
 ### Data
 
