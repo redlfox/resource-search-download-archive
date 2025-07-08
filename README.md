@@ -34,7 +34,9 @@ filter=0 lr=lang_zh-CN num=50 udm=18 nfpr=1
 
 #### Guides
 
-* [Find Rare Files Online](https://forums.lostmediawiki.com/thread/10861/find-rare-files-online) - How-to Find Rare Files
+* [How To Find Rare Files Online | Forums - The Lost Media Wiki](https://forums.lostmediawiki.com/thread/10861/find-rare-files-online)
+* [Media Search Guide | Forums - The Lost Media Wiki](https://forums.lostmediawiki.com/thread/2798/media-search-guide)
+* [Resources Thread | Forums - The Lost Media Wiki](https://forums.lostmediawiki.com/thread/3945/resources-thread)
 
 - [How to search and download unpopular and old files on the internet](https://medium.com/@ValdikSS/how-to-search-and-download-unpopular-and-old-files-on-the-internet-e5947ef507ba)
 
