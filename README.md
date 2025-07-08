@@ -10,7 +10,7 @@ url parameters
 filter=0 lr=lang_zh-CN num=50 nfpr=1
 
 Search Snippets
-*Search forums: ` inurl:bbs OR inurl:topic OR inurl:thread OR inurl:viewtopic OR inurl:forum OR inurl:threads OR inurl:forums OR inurl:showtopic OR inurl:tid OR inurl:archiver ` or applying &udm=18 parameter to your google search url
+* Search forums: ` inurl:bbs OR inurl:topic OR inurl:thread OR inurl:viewtopic OR inurl:forum OR inurl:threads OR inurl:forums OR inurl:showtopic OR inurl:tid OR inurl:archiver ` or applying &udm=18 parameter to your google search url
 #### Others
 
 https://www.etools.ch/
