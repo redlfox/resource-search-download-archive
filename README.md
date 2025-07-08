@@ -19,8 +19,9 @@ Search Snippets
 * Search forums: ` inurl:bbs OR inurl:topic OR inurl:thread OR inurl:viewtopic OR inurl:forum OR inurl:threads OR inurl:forums OR inurl:showtopic OR inurl:tid OR inurl:archiver ` or applying &udm=18 parameter to your google search url
 #### Others
 
-https://www.etools.ch/
-[虫部落 - 让搜索更简单](https://www.chongbuluo.com/) Chinese forum about searching online.
+* https://www.etools.ch/
+* [Wiby - Search Engine for the Classic Web](https://wiby.me)
+* [虫部落 - 让搜索更简单](https://www.chongbuluo.com/) Chinese forum about searching online.
 
 ### Online Video
 
