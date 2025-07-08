@@ -7,7 +7,12 @@
 #### Google
 url parameters
 
-filter=0 lr=lang_zh-CN num=50 nfpr=1
+| parameter             | Description                              |
+|--------------------|--------------------------------------|
+| filter=0 | Shows unfiltered results.(was useful in the past) |
+| lr=lang_zh-CN | Parameter defines one or multiple languages to limit the search to. It uses lang_{two-letter language code} to specify languages and \| as a delimiter. (e.g., lang_fr\|lang_de will only search French and German pages). Head to the Google lr languages page for a full list of supported languages. |
+| num=50 | Parameter defines the maximum number of results to return. (e.g., 10 (default) returns 10 results, 40 returns 40 results, and 100 returns 100 results). |
+| nfpr=1 | Prevent auto-corrected query |
 
 Search Snippets
 * Search forums: ` inurl:bbs OR inurl:topic OR inurl:thread OR inurl:viewtopic OR inurl:forum OR inurl:threads OR inurl:forums OR inurl:showtopic OR inurl:tid OR inurl:archiver ` or applying &udm=18 parameter to your google search url
