@@ -37,10 +37,6 @@ https://www.etools.ch/
 * [喵御宅_MFuns_兴趣至上的二次元社区](https://www.mfuns.net) Chinese
 * [吐槽弹幕网- tucao](https://www.tucao.my) Chinese https://tucao.moe/
 * [CDA - Społeczność cda.pl](www.cda.pl) Polish
-* [Dailymotion](www.cda.pl)
-* [Dailymotion](www.cda.pl)
-* [Dailymotion](www.cda.pl)
-* [Dailymotion](www.cda.pl)
 
 #### Guides and Tools
 
