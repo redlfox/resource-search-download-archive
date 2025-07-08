@@ -53,6 +53,26 @@ https://www.etools.ch/
 
 ### Image Search Engine
 
+| Engine             | Website                              |
+|--------------------|--------------------------------------|
+| Google             | <https://www.google.com/imghp>       |
+| Google Lens        | <https://lens.google.com/>           |
+| Yandex             | <https://yandex.com/images/search>   |
+| Tineye             | <https://tineye.com/search/>         |
+| Baidu              | <https://graph.baidu.com/>           |
+| Pinterest             | <https://www.pinterest.com>   |
+| Flickr             | <https://www.flickr.com/>   |
+| AnimeTrace         | <https://www.animetrace.com/>        |
+| ASCII2D            | <https://ascii2d.net/>               |
+| Bing               | <https://www.bing.com/images/search> |
+| Copyseeker         | <https://copyseeker.net/>            |
+| IQDB               | <https://iqdb.org/>                  |
+| Lenso (deprecated) | <https://lenso.ai/>                  |
+| SauceNAO           | <https://saucenao.com/>              |
+| TraceMoe           | <https://trace.moe/>                 |
+| Yandex             | <https://yandex.com/images/search>   |
+| Yandex             | <https://yandex.com/images/search>   |
+
 ### Tor
 
 ### Websites
