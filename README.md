@@ -5,7 +5,10 @@
 ### Web Search Engine
 
 #### Google
-url parameters
+
+Google offten hide more results now. So make sure use site:[website domain] to search within all website domains of the results if you want to dig everything.
+
+* URL Parameters
 
 [Google Search Engine Results API - SerpApi](https://serpapi.com/search-api)
 | Parameter             | Description                              |
