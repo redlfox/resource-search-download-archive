@@ -88,9 +88,16 @@ Download torrent files: btcache.me torrage.info itorrents.org downloadtorrentfil
 
 https://mediafiretrend.com/
 
-**国内网盘**
+**[中国大陆网盘](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%9B%98%E5%88%97%E8%A1%A8)**
 
-百度网盘/Baidu Wangpan/Baidu Netdisk
+* 百度网盘/Baidu Wangpan/Baidu Netdisk
+* [115网盘](https://115.com/) Wikipedia article: [115 (云存储服务)](https://zh.wikipedia.org/wiki/115_(%E4%BA%91%E5%AD%98%E5%82%A8%E6%9C%8D%E5%8A%A1)) supports torrent download
+* [永硕E盘](http://www.ys168.com/)
+* 123云盘
+* 蓝奏云
+* 阿里云盘
+* 城通网盘
+* 天翼云盘
 
 https://www.runningcheese.com/resources
 
