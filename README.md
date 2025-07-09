@@ -111,6 +111,13 @@ http://www.360doc.com/content/24/0608/12/9422167_1125651571.shtml
 
 https://zhuanlan.zhihu.com/p/676967916
 
+### FTP
+
+* [Mamont. Largest FTP Search Engine](https://www.mmnt.ru/int/)
+
+- See also: [r/opendirectories](https://www.reddit.com/r/opendirectories)
+### Usenet
+
 #### Other p2p file-sharing
 
 *LBRY
@@ -120,8 +127,6 @@ https://zhuanlan.zhihu.com/p/676967916
 *IPFS
 
 ### Tor
-
-### Usenet
 
 ### Websites
 
