@@ -15,3 +15,4 @@
 * https://www.proboards.com/
 * mybb.ru
 * https://www.yooco.org/
+* http://www.forumup.dk/ dead
