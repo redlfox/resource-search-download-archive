@@ -17,3 +17,6 @@
 * https://www.aimoo.com/
 * https://www.yooco.org/
 * http://www.forumup.dk/ dead
+* https://freeflarum.com/
+* [免费轻量论坛,多功能留言板-迷你板官网](http://www.miniban.cn/) chinese
+* 
