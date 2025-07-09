@@ -16,6 +16,7 @@ adblock
 
 ### Files and Virus
 * Be patient and choose trused source. Make sure source were verify by many people since the last version of release. So if you see something new, wait a couple of days before opening them.
+* [Social engineering (phishing and deceptive sites)](https://developers.google.com/search/docs/monitor-debug/security/social-engineering)
 * file checksum
 * 
 
