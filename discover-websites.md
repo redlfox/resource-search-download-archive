@@ -14,5 +14,6 @@
 * [龙论坛](longluntan.com)
 * https://www.proboards.com/
 * mybb.ru
+* https://www.aimoo.com/
 * https://www.yooco.org/
 * http://www.forumup.dk/ dead
