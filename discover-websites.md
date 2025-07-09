@@ -19,4 +19,4 @@
 * http://www.forumup.dk/ dead
 * https://freeflarum.com/
 * [免费轻量论坛,多功能留言板-迷你板官网](http://www.miniban.cn/) chinese
-* 
+* http://www.freebbs.tw/ chinese dead
