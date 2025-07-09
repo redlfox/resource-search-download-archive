@@ -5,6 +5,7 @@
 ## Searching and Downloading Resources
 * OSINT
 * Don't forget to search github by code, you can find many useful resources like this.
+* [site-deaths](https://indieweb.org/site-deaths)
 ### Web Search Engine
 
 #### Google
