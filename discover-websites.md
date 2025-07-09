@@ -7,5 +7,6 @@
 * [wordpress](https://www.wordpress.com/)
 * fc2web.com dead
 * geocities.jp geocities.co.jp www.geocities.com dead
+* sakura.ne.jp
 * [egloos](https://web.archive.org/web/20230228193859/http://egloos.com/) dead
 * xuite.com dead
