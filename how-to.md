@@ -28,3 +28,7 @@ adblock
 * https://github.com/mthcht/ThreatIntel-Reports
 * mthcht.github.io/ThreatIntel-Reports/
 
+### Data Security
+* **ALWAYS BACKUP YOUR DATA.** Whatever you use cloud or local, do it regularly. I saw lots of cases people lost entire data  💀.
+* Be aware before overwrite. It's not recoveryable if you overwrited files 💀.
+* Be aware before deletion
