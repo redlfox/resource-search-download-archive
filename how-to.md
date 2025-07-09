@@ -30,7 +30,7 @@ adblock
 
 ### Data Security
 * **ALWAYS BACKUP YOUR DRIVES' CORE DATA.** They can be useful if your drives reviced non-physical damage. backup your hard drives' Partition tables. backup header of encrypted drives.
-* **ALWAYS BACKUP YOUR DATA.** Whatever you use cloud or local, do it regularly. I saw lots of cases people lost entire data  💀.
+* **ALWAYS BACKUP YOUR DATA.** Whatever you use cloud or local, do it regularly. I saw lots of cases people lost entire priceless data after their storage died and no backups💀.
 * Be aware before overwrite. It's not recoveryable if you overwrited files 💀 and your files are lost FOREVER 💀.
 * Be aware before deletion. If you deleted something accidentally, Stop writing to the drive 
 * What hard drive should i buy?(20250709) normal HDD > SSD > helium HDD That's it.
