@@ -3,7 +3,8 @@
 ## [How to](how-to.md)
 * IMPORTANT: Click the file above and read it. This can help you solving common problems.
 ## Searching and Downloading Resources
-OSINT
+* OSINT
+* Don't forget to search github by code, you can find many useful resources like this.
 ### Web Search Engine
 
 #### Google
