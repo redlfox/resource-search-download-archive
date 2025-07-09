@@ -1,5 +1,5 @@
 # discover-websites
-## Web Hosting services
+## Web Hosting Services
 * users.rcn.com
 * https://www.angelfire.com https://www.angelfire.lycos.com/
 * https://neocities.org/
@@ -10,3 +10,6 @@
 * sakura.ne.jp
 * [egloos](https://web.archive.org/web/20230228193859/http://egloos.com/) dead
 * xuite.com dead
+## Forums Hosting Services
+* longluntan.com
+* 
