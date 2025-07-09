@@ -1,7 +1,7 @@
 # resource-search-download-archive
 
 ## [How to](how-to.md)
-* IMPORTANT: Read this file.
+* IMPORTANT: Click the file above and read it. This can help you solving common problems.
 ## Searching and Downloading Resources
 OSINT
 ### Web Search Engine
