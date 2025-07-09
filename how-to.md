@@ -15,7 +15,7 @@ some websites are tolerant to search engine crawlers, so use one like Googlebot 
 adblock
 
 ### Files and Virus
-* choose trused source. 
+* Be patient and choose trused source. Make sure source were verify by many people since the last version of release. So if you see something new, wait a couple of days before opening them.
 * file checksum
 * 
 
