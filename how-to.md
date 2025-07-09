@@ -14,7 +14,8 @@ some websites are tolerant to search engine crawlers, so use one like Googlebot 
 
 adblock
 
-### Files
+### Files and Virus
+* choose trused source. 
 * file checksum
 * 
 
