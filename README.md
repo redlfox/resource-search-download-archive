@@ -169,6 +169,7 @@ crawled site: https://peachring.com
 ### Knowledge Base
 
 https://github.com/ArchiveBox/ArchiveBox/wiki/Web-Archiving-Community
+https://wiki.archiveteam.org
 
 #### Chinese
 
