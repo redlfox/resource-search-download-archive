@@ -34,6 +34,8 @@ adblock
 * Be aware before overwrite. It's not recoveryable if you overwrited files and your files are lost FOREVER💀.
 * Be aware before deletion. If you deleted something accidentally, stop writing to the target drive and request for data recovery technical help.
 * What hard drive should i buy?(20250709) normal HDD > SSD > helium HDD That's it.
+### Data Recovery
+* Use a tool like Crystal Disk Info to check drives' health.
 #### Here's some hard drive tools
 * WARNING: Use them wrongly may cause data lost! You shouldn't do what you don't know. Always request for professional technical help first if you meet the problem.
 * hddsuperclone
