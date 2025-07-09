@@ -13,3 +13,4 @@
 ## Forums Hosting Services
 * longluntan.com
 * https://www.proboards.com/
+* mybb.ru
