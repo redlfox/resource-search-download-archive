@@ -29,7 +29,7 @@ adblock
 * mthcht.github.io/ThreatIntel-Reports/
 
 ### Data Security
-* **ALWAYS BACKUP YOUR DRIVES'S CORE DATA.** backup your hard drives's Partition table. backup header of encrypted drives.
+* **ALWAYS BACKUP YOUR DRIVES' CORE DATA.** They can be useful if your drives reviced non-physical damage. backup your hard drives' Partition table. backup header of encrypted drives.
 * **ALWAYS BACKUP YOUR DATA.** Whatever you use cloud or local, do it regularly. I saw lots of cases people lost entire data  💀.
 * Be aware before overwrite. It's not recoveryable if you overwrited files 💀 and your files are lost FOREVER 💀.
 * Be aware before deletion. If you deleted something accidentally, Stop writing to the drive 
