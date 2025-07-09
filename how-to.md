@@ -32,10 +32,14 @@ adblock
 * **ALWAYS BACKUP YOUR DRIVES' CORE DATA.** They can be useful and even save your data if your drives reviced non-physical damage. backup your hard drives' Partition tables. backup header of encrypted drives.
 * **ALWAYS BACKUP YOUR DATA.** Whatever you use cloud or local, do it regularly. I saw lots of cases people lost entire priceless data after their storage died and no backups💀.
 * Be aware before overwrite. It's not recoveryable if you overwrited files and your files are lost FOREVER💀.
-* Be aware before deletion. If you deleted something accidentally, stop writing to the target drive and request for technical help.
+* Be aware before deletion. If you deleted something accidentally, stop writing to the target drive and request for data recovery technical help.
 * What hard drive should i buy?(20250709) normal HDD > SSD > helium HDD That's it.
 #### Here's some hard drive tools
 * WARNING: Use them wrongly may cause data lost! You shouldn't do what you don't know. Always request for professional technical help first if you meet the problem.
 * hddsuperclone
 * ddrescue
 * R-Studio
+* UFS Explorer
+* GetDataBack
+* ReclaiMe
+* DMDE
