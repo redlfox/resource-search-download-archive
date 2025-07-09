@@ -11,6 +11,7 @@
 * [egloos](https://web.archive.org/web/20230228193859/http://egloos.com/) dead
 * xuite.com dead
 ## Forums Hosting Services
-* longluntan.com
+* [龙论坛](longluntan.com)
 * https://www.proboards.com/
 * mybb.ru
+* https://www.yooco.org/
