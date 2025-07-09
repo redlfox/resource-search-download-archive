@@ -29,8 +29,14 @@ adblock
 * mthcht.github.io/ThreatIntel-Reports/
 
 ### Data Security
-* **ALWAYS BACKUP YOUR DRIVES' CORE DATA.** They can be useful if your drives reviced non-physical damage. backup your hard drives' Partition tables. backup header of encrypted drives.
+* **ALWAYS BACKUP YOUR DRIVES' CORE DATA.** They can be useful and even save your data if your drives reviced non-physical damage. backup your hard drives' Partition tables. backup header of encrypted drives.
 * **ALWAYS BACKUP YOUR DATA.** Whatever you use cloud or local, do it regularly. I saw lots of cases people lost entire priceless data after their storage died and no backups💀.
 * Be aware before overwrite. It's not recoveryable if you overwrited files and your files are lost FOREVER💀.
-* Be aware before deletion. If you deleted something accidentally, Stop writing to the drive 
+* Be aware before deletion. If you deleted something accidentally, stop writing to the target drive and request for technical help
 * What hard drive should i buy?(20250709) normal HDD > SSD > helium HDD That's it.
+
+#####  First aid is bad idea
+
+First aid is bad because it tests everything as a logical issue and tries to fix it, rather than verifying the drive physical health first, and only doing finest repairs on a drive proven to be healthy.
+
+The only way at a DIY level is to clone the drive using ddrescue or hddsuperclone under Linux, then scanning the clone with R-Studio (as one good option, there are other good choices) and saving the data onto another drive. You cannot use a USB interface to connect the drive.
