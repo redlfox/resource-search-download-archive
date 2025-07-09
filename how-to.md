@@ -30,6 +30,6 @@ adblock
 
 ### Data Security
 * **ALWAYS BACKUP YOUR DATA.** Whatever you use cloud or local, do it regularly. I saw lots of cases people lost entire data  💀.
-* Be aware before overwrite. It's not recoveryable if you overwrited files 💀.
+* Be aware before overwrite. It's not recoveryable if you overwrited files 💀 and your files are lost FOREVER 💀.
 * Be aware before deletion
 * What hard drive should i buy?(20250709) normal HDD > SSD > helium HDD That's it.
