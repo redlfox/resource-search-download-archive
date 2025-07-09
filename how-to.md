@@ -14,6 +14,10 @@ some websites are tolerant to search engine crawlers, so use one like Googlebot 
 
 adblock
 
+### Files
+* file checksum
+* 
+
 ### isolated virtual environment
 - https://sandboxie-plus.com/downloads/
 - vm
@@ -21,3 +25,4 @@ adblock
 * https://github.com/timb-machine/linux-malware
 * https://github.com/mthcht/ThreatIntel-Reports
 * mthcht.github.io/ThreatIntel-Reports/
+
