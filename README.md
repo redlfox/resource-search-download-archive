@@ -111,6 +111,14 @@ http://www.360doc.com/content/24/0608/12/9422167_1125651571.shtml
 
 https://zhuanlan.zhihu.com/p/676967916
 
+#### Other p2p file-sharing
+
+*LBRY
+
+[odysee](https://odysee.com)
+
+*IPFS
+
 ### Tor
 
 ### Usenet
