@@ -29,7 +29,8 @@ adblock
 * mthcht.github.io/ThreatIntel-Reports/
 
 ### Data Security
+* **ALWAYS BACKUP YOUR DRIVES'S CORE DATA.** backup your hard drives's Partition table. backup header of encrypted drives.
 * **ALWAYS BACKUP YOUR DATA.** Whatever you use cloud or local, do it regularly. I saw lots of cases people lost entire data  💀.
 * Be aware before overwrite. It's not recoveryable if you overwrited files 💀 and your files are lost FOREVER 💀.
-* Be aware before deletion
+* Be aware before deletion. If you deleted something accidentally, Stop writing to the drive 
 * What hard drive should i buy?(20250709) normal HDD > SSD > helium HDD That's it.
