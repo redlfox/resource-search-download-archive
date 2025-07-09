@@ -185,6 +185,17 @@ https://github.com/overcast07/wayback-machine-spn-scripts
 
 https://github.com/orgs/saveweb/repositories
 
+### wayback machine
+
+wayback machine hides some subpaths in search results of a website.
+
+cdx api
+
+http://web.archive.org/cdx/search/cdx?url=bcy.net*&output=txt&filter=statuscode:200&fl=original,dupecount&showDupeCount=true&to=20170510103026&limit=333
+
+[SPN2 public API page docs - Google Docs](https://docs.google.com/document/d/1Nsv52MvSjbLb2PCpHlat0gkzw0EvtSgpKHu4mk0MnrA)
+
+
 ### Servrices
 
 [Google Colab](https://colab.research.google.com/)
