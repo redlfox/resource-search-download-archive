@@ -7,6 +7,7 @@
 firefox chrome
 
 some websites are tolerant to search engine crawlers, so use one like Googlebot may can let you access websites that blocking you. This is a Example of Niconico: [geo-block & User-Agent spoofing](https://mmaker.moe/2025/01/niconico-geo-block-user-agent-spoofing/)
+* delete site cookies and data.
 
 ## security
 
