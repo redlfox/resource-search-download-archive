@@ -26,11 +26,13 @@ I suggest you to learn a scripting language like python because you can use it t
 * try another ports.
 
 use nmap to scan open ports of a website server.
-* delete something in the path of the address.
+* delete or add something in the path of the address.
 
 For example, you can access the directory of a file if the website does't block it.
 
 Get a original size reddit avatar: https://styles.redditmedia.com/t5_*****/styles/profileIcon_*************.png?width=256&height=256&frame=1&auto=webp&crop=&s=**************************************** https://styles.redditmedia.com/t5_*****/styles/profileIcon_*************.png
+
+small avatar: https://tpucdn.com/forums/data/avatars/s/**/*****.jpg original avatar: https://tpucdn.com/forums/data/avatars/o/**/*****.jpg
 ### find subdomains
 
 ## Ask for help
