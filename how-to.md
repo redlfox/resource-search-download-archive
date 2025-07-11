@@ -19,8 +19,14 @@ crawler
 ## My Comments
 I suggest you to learn a scripting language like python because you can use it to process crawled data and modify tools written in the same language for your purpose.
 ## Search online
-* url hack
-* find subdomains
+### address hack
+* switch between http and https
+* use ip address
+* try another port
+
+use nmap to scan open ports of a website server.
+
+### find subdomains
 
 ## Ask for help
 
