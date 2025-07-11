@@ -87,6 +87,9 @@ Search Snippets
 ***
 * ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [.i2p](http://btdigg.i2p/)
 * [FileMood](https://filemood.com/)
+* bt4g
+* rutracker.org
+* mnplay
 ***
 Download torrent files: btcache.me torrage.info itorrents.org downloadtorrentfile.com
 
