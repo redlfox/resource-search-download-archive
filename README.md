@@ -65,7 +65,6 @@ Search Snippets
 
 | Engine             | Website                              |
 |--------------------|--------------------------------------|
-| Google             | <https://www.google.com/imghp>       |
 | Google Lens        | <https://lens.google.com/>           |
 | Yandex             | <https://yandex.com/images/search>   |
 | Tineye             | <https://tineye.com/search/>         |
@@ -74,7 +73,7 @@ Search Snippets
 | Flickr             | <https://www.flickr.com/>   |
 | AnimeTrace         | <https://www.animetrace.com/>        |
 | ASCII2D            | <https://ascii2d.net/>               |
-| Bing               | <https://www.bing.com/images/search> |
+| ~~Bing~~               | <https://www.bing.com/images/search> |
 | Copyseeker         | <https://copyseeker.net/>            |
 | IQDB               | <https://iqdb.org/>                  |
 | Lenso (deprecated) | <https://lenso.ai/>                  |
