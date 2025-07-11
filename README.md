@@ -65,7 +65,7 @@ Search Snippets
 
 | Engine             | Website                              |
 |--------------------|--------------------------------------|
-| Yandex             | <https://yandex.com/images/search>   |
+| Yandex             | <https://yandex.com/images/search> Notes: use a vpn of other regions if you are blocked. |
 | Tineye             | <https://tineye.com/search/>         |
 | Google Lens        | <https://lens.google.com/>           |
 | Pinterest             | <https://www.pinterest.com>   |
