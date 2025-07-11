@@ -19,6 +19,8 @@ crawler
 ## bypass Cloudflare Challenges
 
 ## bypass anti-hotlinking
+* imgur
+* sinaimg: weibo images
 
 ## security
 
