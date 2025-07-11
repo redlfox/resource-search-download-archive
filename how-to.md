@@ -20,6 +20,7 @@ crawler
 I suggest you to learn a scripting language like python because you can use it to process crawled data and modify tools written in the same language for your purpose.
 ## Search online
 ### address hack
+![Url-structure](https://upload.wikimedia.org/wikipedia/commons/f/fa/Url-structure.png)
 * switch between http and https protocols.
 * delete the subdomain in hostname of the address.
 * use direct ip address of the website.
