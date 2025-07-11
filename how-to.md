@@ -20,8 +20,8 @@ crawler
 I suggest you to learn a scripting language like python because you can use it to process crawled data and modify tools written in the same language for your purpose.
 ## Search online
 ### address hack
-* switch between http and https
-* use ip address
+* switch between http and https protocols.
+* use direct ip address of the website
 * try another port
 
 use nmap to scan open ports of a website server.
