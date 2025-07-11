@@ -15,7 +15,7 @@ headless browser
 crawler
 
 * Change your access ip
-* Be aware clicking links. Use the inspector to check links on page and open links by paste them in the address bar instead of clicking them. Be careful if you have to click a button.
+* Be aware clicking links. Use the inspector to check links on page and open links by paste them in the address bar instead of clicking them if you can. Be careful if you have to click a button.
 * **Nerver disable the ad blocker on untrusted pages!**
 ## My Comments
 I suggest you to learn a scripting language like python because you can use it to process crawled data and modify tools written in the same language for your purpose.
