@@ -18,7 +18,7 @@ crawler
 
 ## Ask for help
 
-archiveteam irc channels
+[Archiveteam IRC channels](https://wiki.archiveteam.org/index.php/Archiveteam:IRC)
 
 https://github.com/ArchiveBox/ArchiveBox/wiki/Web-Archiving-Community
 
