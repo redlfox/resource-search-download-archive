@@ -26,3 +26,6 @@
 * Miraheze
 * https://www.shoutwiki.com
 * https://liquipedia.net
+* [atwiki](https://w.atwiki.jp)/@wiki japanese
+* https://seesaawiki.jp japanese
+* [나무위키:대문 - 나무위키](https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8) korean
