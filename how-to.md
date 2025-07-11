@@ -1,6 +1,6 @@
 # How to
 
-## entry the website
+## entry the website: Basics
 
 * Change your user agent
 
@@ -16,6 +16,8 @@ crawler
 
 * Change your access ip
 
+## My Comments
+I suggest you to learn a scripting language like python because you can use it to process crawled data and modify tools written in the same language for your purpose.
 ## Search online
 * url hack
 * find subdomains
@@ -27,6 +29,8 @@ Don't know what to do? Have some difficult problems? But you can always ask some
 I recommend going to [Archiveteam IRC channels](https://wiki.archiveteam.org/index.php/Archiveteam:IRC). You can get high quality responses. But you shouldn't ask to many simple questions. It's not positive for your problem-solving because you need to solve problems youself to learn. And it is a waste of other people's time.
 
 https://github.com/ArchiveBox/ArchiveBox/wiki/Web-Archiving-Community
+
+## access the website: Advanced
 
 ## bypass Cloudflare Challenges
 
