@@ -1,6 +1,6 @@
 # How to
 
-## entry the website: Basics
+## Access Websites: Basics
 
 * Change your user agent
 
@@ -44,7 +44,7 @@ I recommend going to [Archiveteam IRC channels](https://wiki.archiveteam.org/ind
 
 https://github.com/ArchiveBox/ArchiveBox/wiki/Web-Archiving-Community
 
-## access the website: Advanced
+## Access Websites: Advanced
 
 ## bypass Cloudflare Challenges
 
