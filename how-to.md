@@ -29,6 +29,8 @@ use nmap to scan open ports of a website server.
 * delete something in the path of the address.
 
 For example, you can access the directory of a file if the website does't block it.
+
+Get a original size reddit avatar: https://styles.redditmedia.com/t5_*****/styles/profileIcon_*************.png?width=256&height=256&frame=1&auto=webp&crop=&s=**************************************** https://styles.redditmedia.com/t5_*****/styles/profileIcon_*************.png
 ### find subdomains
 
 ## Ask for help
