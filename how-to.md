@@ -21,8 +21,9 @@ I suggest you to learn a scripting language like python because you can use it t
 ## Search online
 ### address hack
 * switch between http and https protocols.
-* use direct ip address of the website
-* try another port
+* delete the subdomain in the address.
+* use direct ip address of the website.
+* try another ports.
 
 use nmap to scan open ports of a website server.
 
