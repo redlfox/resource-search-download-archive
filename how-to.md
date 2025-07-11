@@ -21,7 +21,7 @@ crawler
 ## Ask for help
 
 Don't know what to do? Have some difficult problems? But you can always ask someone to help.
-I recommend going to [Archiveteam IRC channels](https://wiki.archiveteam.org/index.php/Archiveteam:IRC). You can get high quality responses. But you shouldn't ask to many simple questions. It's not positive for your problem-solving because you need to learn to solve problems and is a waste of other people's time.
+I recommend going to [Archiveteam IRC channels](https://wiki.archiveteam.org/index.php/Archiveteam:IRC). You can get high quality responses. But you shouldn't ask to many simple questions. It's not positive for your problem-solving because you need to solve problems youself to learn. And it is a waste of other people's time.
 
 https://github.com/ArchiveBox/ArchiveBox/wiki/Web-Archiving-Community
 
