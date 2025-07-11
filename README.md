@@ -209,8 +209,11 @@ Github Actions
 
 ### Communities
 
+I recommend going to [Archiveteam IRC channels](https://wiki.archiveteam.org/index.php/Archiveteam:IRC). You can get high quality response.
+
 https://www.reddit.com/r/DataHoarder/
-Save The Web Project wiki.saveweb.org
+
+[Save The Web Project](wiki.saveweb.org)
 
 ###
 
