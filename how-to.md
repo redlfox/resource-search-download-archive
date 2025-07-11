@@ -17,6 +17,8 @@ crawler
 * Change your access ip
 
 ## Search online
+* url hack
+* find subdomains
 
 ## Ask for help
 
