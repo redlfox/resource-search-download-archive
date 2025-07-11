@@ -209,6 +209,8 @@ Github Actions
 
 ### Communities
 
+Please read this [section](how-to.md#search-online) before asking for help.
+
 I recommend going to [Archiveteam IRC channels](https://wiki.archiveteam.org/index.php/Archiveteam:IRC). You can get high quality response.
 
 https://www.reddit.com/r/DataHoarder/
