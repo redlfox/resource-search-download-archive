@@ -94,6 +94,8 @@ Download torrent files: btcache.me torrage.info itorrents.org downloadtorrentfil
 * [💾 Downloading · fmhy/FMHY Wiki](https://github.com/fmhy/FMHY/wiki/%F0%9F%92%BE-Downloading) [alt](https://github.com/fmhy/edit/blob/main/docs/downloadpiracyguide.md)
 * Mediafire
 * Mega Drive Mega.nz [2](Mega.co.nz) [3](Mega.io)
+* OneDrive formerly SkyDrive
+* Google Drive
 
 https://mediafiretrend.com/
 
