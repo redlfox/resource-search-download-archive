@@ -93,6 +93,7 @@ Download torrent files: btcache.me torrage.info itorrents.org downloadtorrentfil
 ### File Hosting Services
 * [💾 Downloading · fmhy/FMHY Wiki](https://github.com/fmhy/FMHY/wiki/%F0%9F%92%BE-Downloading) [alt](https://github.com/fmhy/edit/blob/main/docs/downloadpiracyguide.md)
 * Mediafire
+* Mega Drive Mega.nz [2](Mega.co.nz) [3](Mega.io)
 
 https://mediafiretrend.com/
 
@@ -223,6 +224,6 @@ http://nuduseng.com/laoguangpan.htm
 
 https://github.com/esbatmop/MNBVC
 
-## Credits
+## References
 
 https://github.com/abelfodil/knawledge/blob/3f4065b208b209a77eb709399a237dd56f2b7869/vault/swe.security.piracy.md
