@@ -65,11 +65,11 @@ Search Snippets
 
 | Engine             | Website                              |
 |--------------------|--------------------------------------|
-| Google Lens        | <https://lens.google.com/>           |
 | Yandex             | <https://yandex.com/images/search>   |
 | Tineye             | <https://tineye.com/search/>         |
-| Baidu              | <https://graph.baidu.com/>           |
+| Google Lens        | <https://lens.google.com/>           |
 | Pinterest             | <https://www.pinterest.com>   |
+| Baidu              | <https://graph.baidu.com/>           |
 | Flickr             | <https://www.flickr.com/>   |
 | AnimeTrace         | <https://www.animetrace.com/>        |
 | ASCII2D            | <https://ascii2d.net/>               |
