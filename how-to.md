@@ -1,7 +1,7 @@
 # How to
 
 ## Access Websites: Basics
-
+* Simulate desktop or mobile device
 * Change your user agent
 
 firefox chrome
