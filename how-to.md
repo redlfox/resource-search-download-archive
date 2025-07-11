@@ -15,7 +15,7 @@ headless browser
 crawler
 
 * Change your access ip
-
+* **Nerver disable the ad blocker on untrusted pages!**
 ## My Comments
 I suggest you to learn a scripting language like python because you can use it to process crawled data and modify tools written in the same language for your purpose.
 ## Search online
