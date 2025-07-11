@@ -18,7 +18,8 @@ crawler
 
 ## Ask for help
 
-[Archiveteam IRC channels](https://wiki.archiveteam.org/index.php/Archiveteam:IRC)
+Don't know what to do? Have some difficult problems? But you can always ask someone to help.
+I recommend going to [Archiveteam IRC channels](https://wiki.archiveteam.org/index.php/Archiveteam:IRC). You can get high quality responses.
 
 https://github.com/ArchiveBox/ArchiveBox/wiki/Web-Archiving-Community
 
