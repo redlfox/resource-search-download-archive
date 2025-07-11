@@ -21,12 +21,14 @@ I suggest you to learn a scripting language like python because you can use it t
 ## Search online
 ### address hack
 * switch between http and https protocols.
-* delete the subdomain in the address.
+* delete the subdomain in hostname of the address.
 * use direct ip address of the website.
 * try another ports.
 
 use nmap to scan open ports of a website server.
+* delete something in the path of the address.
 
+For example, you can access the directory of a file if the website does't block it.
 ### find subdomains
 
 ## Ask for help
