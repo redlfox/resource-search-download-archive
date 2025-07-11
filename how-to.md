@@ -16,6 +16,12 @@ crawler
 
 * Change your access ip
 
+## Ask for help
+
+archiveteam irc channels
+
+https://github.com/ArchiveBox/ArchiveBox/wiki/Web-Archiving-Community
+
 ## bypass Cloudflare Challenges
 
 ## bypass anti-hotlinking
