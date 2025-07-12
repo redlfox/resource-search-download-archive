@@ -191,7 +191,7 @@ https://ghostarchive.org/
 Please donate to them to support their work.
 
 Q: I don't have any method to donate.
-A: Donate cryptocurrency or buy a pre-paid card.
+A: Donate cryptocurrency or buy a pre-paid card to donate.
 
 ### Tools
 
