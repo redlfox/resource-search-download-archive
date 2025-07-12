@@ -98,4 +98,30 @@ adblock
 ## Use Tools
 ## After Uploaded to Internet Archive
 * Record things you archived on a webpage
+## Site Guide
+[Blocking some Youtube Videos/embarrassing me in front of family after I rave about how awesome it is : r/pihole](https://www.reddit.com/r/pihole/comments/a9qez4/blocking_some_youtube_videosembarrassing_me_in/)
+
+> Speaking as someone who runs a pihole on a whitelist basis, I should have the exact list of domains you need to run Youtube.
+> 
+> I grepped my lists by 'youtu|google' and removed the obviously unrelated ones. Check if any of these - including subdomains - are on your blacklists.
+> 
+> clients1.google.com  
+> clients2.google.com  
+> clients3.google.com  
+> clients4.google.com  
+> googleusercontent.com  
+> accounts.google.com  
+> ajax.googleapis.com  
+> youtube.com  
+> youtu.be  
+> youtube-ui.l.google.com  
+> ytstatic.l.google.com  
+> video.google.com  
+> googlevideo.com  
+> img.youtube.com  
+> knol.google.com  
+> lh3.google.com  
+> [www.googleapis.com](http://www.googleapis.com)  
+> [www.googletagmanager.com](http://www.googletagmanager.com)  
+> storage.googleapis.com
 
