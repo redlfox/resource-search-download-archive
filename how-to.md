@@ -99,6 +99,8 @@ adblock
 ## After Uploaded to Internet Archive
 * Record things you archived on a webpage
 ## Site Guide
+
+### Youtube etc.
 [Blocking some Youtube Videos/embarrassing me in front of family after I rave about how awesome it is : r/pihole](https://www.reddit.com/r/pihole/comments/a9qez4/blocking_some_youtube_videosembarrassing_me_in/)
 
 > Speaking as someone who runs a pihole on a whitelist basis, I should have the exact list of domains you need to run Youtube.
