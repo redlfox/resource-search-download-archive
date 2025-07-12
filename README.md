@@ -188,6 +188,11 @@ Archive.Today
 https://ghostarchive.org/
 ウェブ魚拓 https://megalodon.jp/ gyo.tc
 
+Please donate to them to support their work.
+
+Q: I don't have any method to donate.
+A: Donate cryptocurrency or buy a pre-paid card.
+
 ### Tools
 
 See details of diffenent at [hoardy-web's readme](https://github.com/Own-Data-Privateer/hoardy-web)
