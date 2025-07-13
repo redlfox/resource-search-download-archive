@@ -1,4 +1,4 @@
-t# resource-search-download-archive
+# resource-search-download-archive
 
 ## [How to](how-to.md)
 * IMPORTANT: Click the file above and read it. This can help you solving common problems.
@@ -202,6 +202,8 @@ https://github.com/overcast07/wayback-machine-spn-scripts
 https://github.com/orgs/saveweb/repositories
 
 ### wayback machine
+
+Wayback Machine don't have a search engine ability. You have to find urls of pages you want youself.
 
 wayback machine hides some subpaths in search results of a website.
 
