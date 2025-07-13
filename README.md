@@ -189,6 +189,8 @@ https://wiki.archiveteam.org
 - ウェブ魚拓 https://megalodon.jp/ gyo.tc
 - https://perma.cc/
 
+- [Help:Dead Links - Fanlore](https://fanlore.org/wiki/Help:Dead_Links)
+
 Please donate to them to support their work.
 
 Q: I don't have any method to donate.
