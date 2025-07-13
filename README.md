@@ -1,4 +1,4 @@
-# resource-search-download-archive
+t# resource-search-download-archive
 
 ## [How to](how-to.md)
 * IMPORTANT: Click the file above and read it. This can help you solving common problems.
@@ -82,7 +82,7 @@ Search Snippets
 
 ### Torrent
 
-* [🌀 Torrenting · fmhy/FMHY Wiki](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%80-Torrenting) [alt](https://github.com/fmhy/edit/blob/main/docs/torrentpiracyguide.md)
+* [🌀 Torrenting · fmhy/FMHY Wiki](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%80-Torrenting) [alt](https://github.com/fmhy/edit/blob/main/docs/torrentpiracyguide.md) [2](https://fmhy.net/torrentpiracyguide)
 ***
 * ⭐ **[BTDigg](https://btdig.com/)** - DHT-Based / [.onion](http://btdigggink2pdqzqrik3blmqemsbntpzwxottujilcdjfz56jumzfsyd.onion/) / [.i2p](http://btdigg.i2p/)
 * [FileMood](https://filemood.com/)
@@ -94,7 +94,7 @@ Search Snippets
 Download torrent files: btcache.me torrage.info itorrents.org downloadtorrentfile.com
 
 ### File Hosting Services
-* [💾 Downloading · fmhy/FMHY Wiki](https://github.com/fmhy/FMHY/wiki/%F0%9F%92%BE-Downloading) [alt](https://github.com/fmhy/edit/blob/main/docs/downloadpiracyguide.md)
+* [💾 Downloading · fmhy/FMHY Wiki](https://github.com/fmhy/FMHY/wiki/%F0%9F%92%BE-Downloading) [alt](https://github.com/fmhy/edit/blob/main/docs/downloadpiracyguide.md) [2](https://fmhy.net/downloadpiracyguide)
 * Mediafire
 * Mega Drive Mega.nz [2](Mega.co.nz) [3](Mega.io)
 * OneDrive formerly SkyDrive
