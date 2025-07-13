@@ -183,10 +183,11 @@ https://wiki.archiveteam.org
 
 ### Sites
 
-archive.org
-Archive.Today
-https://ghostarchive.org/
-ウェブ魚拓 https://megalodon.jp/ gyo.tc
+- archive.org
+- Archive.Today
+- https://ghostarchive.org/
+- ウェブ魚拓 https://megalodon.jp/ gyo.tc
+- https://perma.cc/
 
 Please donate to them to support their work.
 
