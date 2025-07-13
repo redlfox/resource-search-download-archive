@@ -4,6 +4,7 @@
 * IMPORTANT: Click the file above and read it. This can help you solving common problems.
 ## Searching and Downloading Resources
 * OSINT
+* [cipher387/osint_stuff_tool_collection: A collection of several hundred online tools for OSINT](https://github.com/cipher387/osint_stuff_tool_collection?tab=readme-ov-file#youtube)
 * Don't forget to search github by code, you can find many useful resources like this.
 * [site-deaths](https://indieweb.org/site-deaths)
 ### Web Search Engine
