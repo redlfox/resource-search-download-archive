@@ -143,7 +143,7 @@ https://zhuanlan.zhihu.com/p/676967916
 
 * Weibo
 
-crawled site: https://peachring.com
+Mirror sites: https://peachring.com https://freeweibo.com
 
 #### [Graveyard](site-graveyard.md)
 
