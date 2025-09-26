@@ -101,11 +101,11 @@ Download torrent files: btcache.me torrage.info itorrents.org downloadtorrentfil
 #### Niche Torrent
 
 verycd Simplified Chinese\
-simplecd Simplified Chinese thanks for spotted by [Nekowhite](https://www.mfuns.net/member/63723) [【稀有】电驴数据库（VeryCD和simplecd）含软件_喵御宅_MFuns](https://www.mfuns.net/article/102546) [dl1](https://pan.baidu.com/s/1jWhD_d0vGr9B6Py6L9S9nw) [dl2](https://www.123912.com/s/oQpAvd-ZLqh3?) dl2 access code:t1ea [desc2: 【分享】VeryCD电驴完整备份加本地客户端-灌水聊天-老男人游戏网配套论坛](https://bbs.oldmantvg.net/thread-7005.htm) ed2k://|file|VeryCD电驴完整备份加本地客户端.7z|943585576|ea02f6d9630eb8a5d10bba7b280abad6|/\
-[VeryCD，真滴牛批-灌水聊天-老男人游戏网配套论坛](https://bbs.oldmantvg.net/thread-18748-1.htm)
+simplecd Simplified Chinese Thanks for spotted by [Nekowhite](https://www.mfuns.net/member/63723) desc1: [【稀有】电驴数据库（VeryCD和simplecd）含软件_喵御宅_MFuns](https://www.mfuns.net/article/102546) [dl1](https://pan.baidu.com/s/1jWhD_d0vGr9B6Py6L9S9nw) [dl2](https://www.123912.com/s/oQpAvd-ZLqh3?) dl2 access code:t1ea desc2: [【分享】VeryCD电驴完整备份加本地客户端-灌水聊天-老男人游戏网配套论坛](https://bbs.oldmantvg.net/thread-7005.htm) ed2k://|file|VeryCD电驴完整备份加本地客户端.7z|943585576|ea02f6d9630eb8a5d10bba7b280abad6|/\
 newer version of simplecd\
-[dl4 201103 Scw SIdm 9 Very CD电驴完整备份加本地客户端. 7z : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/scw-sidm-9-very-cd.-7z)\
-[dl5 simplecd_201101.7z : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/simplecd_201101.7z)\
+2012? [VeryCD，真滴牛批-灌水聊天-老男人游戏网配套论坛](https://bbs.oldmantvg.net/thread-18748-1.htm)\
+dl4 [201103 Scw SIdm 9 Very CD电驴完整备份加本地客户端. 7z : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/scw-sidm-9-very-cd.-7z)\
+dl5 [simplecd_201101.7z : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/simplecd_201101.7z)\
 [照牛排-SimpleCD：怕了国内那些大爷了，所以为VeryCD做了个简单备份](http://www.zhaoniupai.com/?mod=pad&act=view&id=255)\
 [veryCD、simpleCD全站资源备份下载，到2011年3月-福利吧](https://fuliba2023.net/verycd%E5%85%A8%E7%AB%99%E4%B8%8B%E8%BD%BD.html)\
 "Bitsnoop全站备份"\
