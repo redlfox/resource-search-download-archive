@@ -105,7 +105,9 @@ simplecd Simplified Chinese thanks for spotted by [Nekowhite](https://www.mfuns.
 [VeryCD，真滴牛批-灌水聊天-老男人游戏网配套论坛](https://bbs.oldmantvg.net/thread-18748-1.htm)
 newer version of simplecd\
 [dl4 201103 Scw SIdm 9 Very CD电驴完整备份加本地客户端. 7z : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/scw-sidm-9-very-cd.-7z)\
-[dl5 simplecd_201101.7z : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/simplecd_201101.7z)
+[dl5 simplecd_201101.7z : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/simplecd_201101.7z)\
+[照牛排-SimpleCD：怕了国内那些大爷了，所以为VeryCD做了个简单备份](http://www.zhaoniupai.com/?mod=pad&act=view&id=255)\
+[veryCD、simpleCD全站资源备份下载，到2011年3月-福利吧](https://fuliba2023.net/verycd%E5%85%A8%E7%AB%99%E4%B8%8B%E8%BD%BD.html)\
 "Bitsnoop全站备份"\
 [Bitsnoop全站备份！千万种子,支持中文,价值远超海盗湾！ ...](https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1156069&extra=&page=83)\
 [TORRENTS MAGNET ARCHIVES : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/TORRENTSMAGNETARCHIVES)\
