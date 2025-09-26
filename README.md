@@ -94,6 +94,11 @@ Search Snippets
 ***
 Download torrent files: btcache.me torrage.info itorrents.org downloadtorrentfile.com
 
+#### Niche Torrent
+
+verycd Simplified Chinese
+simplecd Simplified Chinese thanks for spotted by [Nekowhite](https://www.mfuns.net/member/63723) [【稀有】电驴数据库（VeryCD和simplecd）含软件_喵御宅_MFuns](https://www.mfuns.net/article/102546) [dl1](https://pan.baidu.com/s/1jWhD_d0vGr9B6Py6L9S9nw) [dl2](https://www.123912.com/s/oQpAvd-ZLqh3?) dl2 access code:t1ea
+
 ### File Hosting Services
 * [💾 Downloading · fmhy/FMHY Wiki](https://github.com/fmhy/FMHY/wiki/%F0%9F%92%BE-Downloading) [alt](https://github.com/fmhy/edit/blob/main/docs/downloadpiracyguide.md) [2](https://fmhy.net/downloadpiracyguide)
 * Mediafire
@@ -102,6 +107,8 @@ Download torrent files: btcache.me torrage.info itorrents.org downloadtorrentfil
 * Google Drive
 
 https://mediafiretrend.com/
+
+chomikuj.pl chomikuj.pl,[1][2][3][4][5][excessive citations] or Chomik[1] (English: hamster), is a Polish file hosting service founded in 2006.[5] As of February 2013, it was the 15th most popular website in Poland.[6] 
 
 **[中国大陆网盘](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BD%91%E7%9B%98%E5%88%97%E8%A1%A8)**
 
