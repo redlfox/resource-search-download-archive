@@ -104,6 +104,7 @@ verycd Simplified Chinese
 simplecd Simplified Chinese thanks for spotted by [Nekowhite](https://www.mfuns.net/member/63723) [【稀有】电驴数据库（VeryCD和simplecd）含软件_喵御宅_MFuns](https://www.mfuns.net/article/102546) [dl1](https://pan.baidu.com/s/1jWhD_d0vGr9B6Py6L9S9nw) [dl2](https://www.123912.com/s/oQpAvd-ZLqh3?) dl2 access code:t1ea [desc2: 【分享】VeryCD电驴完整备份加本地客户端-灌水聊天-老男人游戏网配套论坛](https://bbs.oldmantvg.net/thread-7005.htm) ed2k://|file|VeryCD电驴完整备份加本地客户端.7z|943585576|ea02f6d9630eb8a5d10bba7b280abad6|/
 [VeryCD，真滴牛批-灌水聊天-老男人游戏网配套论坛](https://bbs.oldmantvg.net/thread-18748-1.htm)
 "Bitsnoop全站备份"
+[Bitsnoop全站备份！千万种子,支持中文,价值远超海盗湾！ ...](https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1156069&extra=&page=83)
 
 ### File Hosting Services
 * [💾 Downloading · fmhy/FMHY Wiki](https://github.com/fmhy/FMHY/wiki/%F0%9F%92%BE-Downloading) [alt](https://github.com/fmhy/edit/blob/main/docs/downloadpiracyguide.md) [2](https://fmhy.net/downloadpiracyguide)
